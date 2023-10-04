@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Julian Rengifo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi 👋, I'm Julian Rengifo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- hola -->
 
 <div>
@@ -19,14 +19,12 @@
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </a>
-
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
 -🚀 Passionate about personal development and teamwork.
 
 -🔭 I'm studying software development.
@@ -36,8 +34,6 @@
 -🤝 I am currently open to an internship or a new job opportunity, this is [my resume](#)
 
 I am an individual with a strong sense of belonging, which drives me to put forth my best efforts for the benefit of my teams. I am highly resilient and productive, even when working under pressure. I am deeply passionate about providing excellent service and collaborating effectively within a team.
-
-
 
 <br>
 
@@ -58,6 +54,35 @@ I am an individual with a strong sense of belonging, which drives me to put fort
 </a>
 </div>
 
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div align="center" id="user-content-toc">	  
+	
+   ## Connect With Me🤝
+
+  
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+
 <br>
 <br>
 <br>
@@ -66,19 +91,3 @@ I am an individual with a strong sense of belonging, which drives me to put fort
 
 <br>
 <br>
-
-
-<!--
-**SoyMordekay/SoyMordekay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
