@@ -5,13 +5,7 @@
 <p align="center">
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=49CACD&center=true&width=435&lines=Quality+Automation;Software+development+student;Love+a+learning+new+stuff+%3C3" alt="Typing SVG" /></a>
 </p>
-
-
-<br>
 </div>
-
-
-	
  
  <div> <!-- Sobre mi -->
 
@@ -80,12 +74,3 @@ I am an individual with a strong sense of belonging, which drives me to put fort
   
 </div>
 
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
