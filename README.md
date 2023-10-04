@@ -32,7 +32,7 @@ I am an individual with a strong sense of belonging, which drives me to put fort
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 </div> <!-- fin Sobre mi -->
