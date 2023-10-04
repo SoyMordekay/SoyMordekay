@@ -17,16 +17,29 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- Passionate about personal development and teamwork.
-- I'm studying software development.
-- Currently learning Quality Assurance with eggcooperation and Globant.
-- I am currently open to an internship or a new job opportunity, this is [my resume](#)
+-🚀 Passionate about personal development and teamwork.
 
-<br><br>
+-🔭 I'm studying software development.
+
+-🌱 Currently learning Quality Assurance with eggcooperation and Globant.
+
+-🤝 I am currently open to an internship or a new job opportunity, this is [my resume](#)
+
+I am an individual with a strong sense of belonging, which drives me to put forth my best efforts for the benefit of my teams. I am highly resilient and productive, even when working under pressure. I am deeply passionate about providing excellent service and collaborating effectively within a team.
+
+
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
